@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "41153677-117e-4419-b30e-a87d1bfdc812"
+      }
+    },
+    "owner": "mxmulder"
   }
 }
